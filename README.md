@@ -20,4 +20,4 @@ The following parameters are displayed:
 | **Garbage alert** | Gives you an alert for the next garbage collection
 | **Garbage today** | Indicator for garbage today
 
-![Domotics text device](Images/2023-02-02 at 22.jpeg)
+![Image1](Images/2023-02-02 at 22.jpg)
