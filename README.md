@@ -20,4 +20,6 @@ The following parameters are displayed:
 | **Garbage alert** | Gives you an alert for the next garbage collection
 | **Garbage today** | Indicator for garbage today
 
-![Image1](Images/2023-02-02at22.jpg)
+![Afval](Images/Afval.jpg)
+![AfvalMelding](Images/AfvalMelding.jpg)
+![Afval](Images/AfvalVandaag.jpg)
